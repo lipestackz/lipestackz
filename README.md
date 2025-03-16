@@ -16,4 +16,4 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br>
 
-Sou mais um apaixonado por Tecnologia e Dev de sistemas,to iniciando minha carreira e estudos nesta aréa neste ano de 2025, e se Deus quiser irei ter uma profissão muito promissora neste ramo.
+Sou mais um apaixonado por Tecnologia e Dev de sistemas,to iniciando minha carreira e estudos nesta aréa neste ano de 2025, e se Deus quiser irei ter uma profissão muito promissora neste ramo!
