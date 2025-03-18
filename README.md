@@ -37,16 +37,6 @@
 <img align="center" alt="AMDryzen" src="https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </div><br>
 
-## 🎮 Games:
-
-<div style="display: inline_blocl"><br/>
-<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-<img align="center" alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
-<img align="center" alt="Counter-Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/>
-<img align="center" alt="Riot-games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
-</div><br>
-
-
 
 ## 👨‍💻 Office
 
