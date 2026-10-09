@@ -1,8 +1,4 @@
-### Opa Tranquilo? Me chamo Felipe,mas pode me chamar de Trevisan🤙🏻
-[![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipee_tr/)
-[![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lipecamionero)
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yukaii_onee)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lipestackz)
+### Eae Tranquilo? 
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Previous-Attempt-461/)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31w67i42pv6iocewii4yb4agp24y?si=fba8fc6ba4df4b73)
 
@@ -13,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipestackz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀Linguagens que uso no meu dia a dia:
+## 🚀Linguagens que uso :
 
 <div style="display: inline_blocl"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -50,4 +46,3 @@
 
 <img align="center" alt="VS-code" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
 
-Sou mais um apaixonado por Tecnologia e Dev de sistemas,to iniciando minha carreira e estudos nesta aréa neste ano de 2025, e se Deus quiser irei ter uma profissão muito promissora neste ramo!
